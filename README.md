@@ -1,2 +1,3 @@
 # hello-world
-first project
+Hi everyone! 
+i love pizza and hanging out with friends
